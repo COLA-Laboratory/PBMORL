@@ -1,8 +1,5 @@
 # Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning
 
-**Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning**
-
-
 ## Overview
 This repository contains implementation of the preference-based multi-objective reinforcement learning (PBMORL).
 
