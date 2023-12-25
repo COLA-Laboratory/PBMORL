@@ -1,0 +1,13 @@
+{
+    "location": [
+        {
+            "MO-Ant-v2": "AntEnv",
+	        "MO-HalfCheetah-v2": "HalfCheetahEnv",
+	        "MO-Hopper-v2": "HopperEnv",
+            "MO-Hopper-v3": "Hopper3Env",
+            "MO-Humanoid-v2": "HumanoidEnv",
+            "MO-Swimmer-v2": "SwimmerEnv",
+            "MO-Walker2d-v2": "Walker2dEnv"
+        }
+    ]
+}

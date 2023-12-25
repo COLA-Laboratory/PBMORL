@@ -1,0 +1,108 @@
+{
+    "mujoco": [
+        {
+            "MO-Ant-v2": "1",
+	        "MO-HalfCheetah-v2": "1",
+	        "MO-Hopper-v2": "1",
+            "MO-Hopper-v3": "1",
+            "MO-Humanoid-v2": "1",
+            "MO-Swimmer-v2": "1",
+            "MO-Walker2d-v2": "1"
+        }
+    ],
+    "mmsd" : [
+        {
+            "MMSD": "MMSDENV"
+        }
+    ],
+    "mogym" : [
+        {
+            "deep-sea-treasure-v0" : "1",
+            "deep-sea-treasure-concave-v0" : "1",
+            "resource-gathering-v0" : "1",
+            "fishwood-v0" : "1",
+            "breakable-bottles-v0" : "1",
+            "fruit-tree-v0" : "1",
+            "water-reservoir-v0" : "1",
+            "four-room-v0" : "1",
+            "mo-mountaincar-v0" : "1",
+            "mo-mountaincarcontinuous-v0" : "1",
+            "mo-lunar-lander-v2" : "1",
+            "minecart-v0" : "1",
+            "mo-highway-v0" : "1",
+            "mo-supermario-v0" : "1",
+            "mo-reacher-v4" : "1"
+        }
+    ],
+    "evogym" : [
+        {
+            "Walker-v0": "1",
+            "Balancer-v0": "1",
+            "Balancer-v1": "1",
+            "BridgeWalker-v0": "1",
+            "BidirectionalWalker-v0": "1",
+            "Climber-v0": "1",
+            "Climber-v1": "1",
+            "Climber-v2": "1",
+            "UpStepper-v0": "1",
+            "DownStepper-v0": "1",
+            "ObstacleTraverser-v0": "1",
+            "ObstacleTraverser-v1": "1",
+            "Hurdler-v0": "1",
+            "PlatformJumper-v0": "1",
+            "GapJumper-v0": "1",
+            "Traverser-v0": "1",
+            "CaveCrawler-v0": "1",
+            "AreaMaximizer-v0": "1",
+            "AreaMinimizer-v0": "1",
+            "WingspanMazimizer-v0": "1",
+            "HeightMaximizer-v0": "1",
+            "Carrier-v0": "1",
+            "Carrier-v1": "1",
+            "Thrower-v0": "1",
+            "BeamSlider-v0": "1",
+            "Catcher-v0": "1",
+            "Pusher-v0": "1",
+            "Pusher-v1": "1",
+            "Flipper-v0": "1",
+            "Jumper-v0": "1",
+            "BeamToppler-v0": "1",
+            "Lifter-v0": "1"
+        }
+    ],
+    "evogym_design" : [
+        {
+            "Walker-v0-design": "1",
+	        "Balancer-v0-design": "1",
+            "Balancer-v1-design": "1",
+            "BridgeWalker-v0-design": "1",
+            "BidirectionalWalker-v0-design": "1",
+            "Climber-v0-design": "1",
+            "Climber-v1-design": "1",
+            "Climber-v2-design": "1",
+            "UpStepper-v0-design": "1",
+            "DownStepper-v0-design": "1",
+            "ObstacleTraverser-v0-design": "1",
+            "ObstacleTraverser-v1-design": "1",
+            "Hurdler-v0-design": "1",
+            "PlatformJumper-v0-design": "1",
+            "GapJumper-v0-design": "1",
+            "CaveCrawler-v0-design": "1",
+            "AreaMaximizer-v0-design": "1",
+            "AreaMinimizer-v0-design": "1",
+            "WingspanMazimizer-v0-design": "1",
+            "HeightMaximizer-v0-design": "1",
+            "Traverser-v0-design": "1",
+            "Carrier-v0-design": "1",
+            "Thrower-v0-design": "1",
+            "BeamSlider-v0-design" : "1",
+            "Catcher-v0-design": "1",
+            "Pusher-v0-design" : "1",
+            "Pusher-v1-design": "1",
+            "Flipper-v0-design": "1",
+            "Jumper-v0-design": "1",
+            "BeamToppler-v0-design": "1",
+            "Lifter-v0-design": "1"
+        }
+    ]
+}
