@@ -12,7 +12,7 @@ This repository contains implementation of the preference-based multi-objective 
 |--morl --> source codes for PBMORL
 |--configs --> configs of environments
 |--environments --> available environments of PBMORL
-|--externals --> external algorithm package of [PPO](<https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail>).
+|--externals --> external algorithm package of PPO(https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail).
 ```
 
 ## Requirements
